@@ -1,5 +1,3 @@
-# SARTHAK CHANDNA
-
 
  ## 👋 &nbsp;Hey there! I'm Sarthak Chandna 
 
