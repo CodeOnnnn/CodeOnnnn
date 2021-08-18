@@ -1,7 +1,7 @@
-# PROFILE
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+# SARTHAK CHANDNA
 
-<!-- ## 👋 &nbsp;Hey there! I'm Sarthak Chandna -->
+
+ ## 👋 &nbsp;Hey there! I'm Sarthak Chandna 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,6 +11,7 @@
 ✍️ &nbsp;In my free time, I indulge in Drama and Cooking as hobbies.\
 ✉️ &nbsp;You can shoot me an email at schandna_be20@thapar.edu! I'll try to respond as soon as I can.\
 #📄 &nbsp;Please have a look at my [Résumé]
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
