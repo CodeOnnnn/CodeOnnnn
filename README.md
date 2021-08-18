@@ -9,10 +9,10 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at Thapar Institute of Engineering and Technology.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning and developing backend for websites.\
 ✍️ &nbsp;In my free time, I indulge in Drama and Cooking as hobbies.\
-✉️ &nbsp;You can shoot me an email at schandna_be20@thapar.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at schandna_be20@thapar.edu! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé] --> 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/CodeOnnnn/CodeOnnnn/blob/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +32,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/CodeOnnnn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeOnnnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeOnnnn&layout=compact&langs_count=8&theme=algolia"/>
@@ -41,7 +41,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sarthak-chandna-5a63491b7/"><img src="https://img.shields.io/badge/-Sarthak%20Chandna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:schandna_be20@thapar.edu"><img src="https://img.shields.io/badge/-schandna_be20@thapar.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@_sarthakchandna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
