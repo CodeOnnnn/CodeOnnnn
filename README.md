@@ -37,6 +37,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeOnnnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeOnnnn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+ <br>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -44,6 +45,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthak-chandna-5a63491b7/"><img src="https://img.shields.io/badge/-Sarthak%20Chandna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:schandna_be20@thapar.edu"><img src="https://img.shields.io/badge/-schandna_be20@thapar.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@_sarthakchandna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_sarthakchandna/"><img src="https://img.shields.io/badge/-@_sarthakchandna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
