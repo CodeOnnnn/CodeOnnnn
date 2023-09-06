@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at Thapar Institute of Engineering and Technology.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning and developing backend for websites.\
 ✍️ &nbsp;In my free time, I indulge in Drama and Cooking as hobbies.\
-✉️ &nbsp;You can shoot me an email at schandna_be20@thapar.edu! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at sarthak.chandna23@gmail.com ! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé] --> 
 
 <img alt="Night Coding" src="https://github.com/CodeOnnnn/CodeOnnnn/blob/main/Night-Coding.gif" align="right"/>
